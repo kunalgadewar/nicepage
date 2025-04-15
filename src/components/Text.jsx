@@ -23,7 +23,7 @@ export default function Text() {
         <li><a href="*">Contact</a></li>
       </div>
    <div className='content' data-aos="zoom-in" >
-        <h1>How To Get Consulting Clients</h1>
+        <h1>How To Get Consulting Clients</h1> 
    </div>
       <div className="text">
         <h1>Nibh venenatis cras sed felis eget velit aliquet sagittis id. Tellus pellentesque eu tincidunt tortor aliquam nulla.</h1>

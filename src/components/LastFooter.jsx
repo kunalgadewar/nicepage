@@ -9,7 +9,7 @@ function LastFooter() {
       </div>
 
 
-      <div className="text-3">
+      <div className="text-3"> 
       <a href='*'>HTML Template</a>
           <h6>Created With </h6>
           <a href='*'>Website Builder.</a>

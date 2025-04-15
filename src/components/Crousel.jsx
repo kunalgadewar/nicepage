@@ -54,7 +54,7 @@ function Crousel() {
      </div>
 
   <div className="pics"  >
-    <img data-aos="zoom-in" src='https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyJlTOJxNp6IsyGsmCsSlaMSvLxVUVx13F4AlAZVxaf4nYJdj4' alt=''></img>
+    <img data-aos="zoom-in"  src='https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyJlTOJxNp6IsyGsmCsSlaMSvLxVUVx13F4AlAZVxaf4nYJdj4' alt=''></img>
     <img src='https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0ABKCAeNo7BdfGjh9j959AtC2JLmzcV7TSJq_BrNWw7UTYI8p' alt=''></img>
     <img src='https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdqztwWpqCH8Auy6ZJnMo2PZt7Fh22dHia5H6vCexS3QM_6U1m' alt=''></img>
     <img src='https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0G1749LxudUfq195_gs9NCGs8QhbPgd3MVAOSrtHczzYPTNmY' alt=''></img>
